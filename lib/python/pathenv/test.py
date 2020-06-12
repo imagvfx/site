@@ -80,7 +80,6 @@ def TestFrom():
 
 def TestMain():
 	TestFrom()
-	print("PASS")
 
 if __name__ == "__main__":
 	TestMain()
