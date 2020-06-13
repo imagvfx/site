@@ -12,7 +12,8 @@ site를 개발하기 위해서는 [Go](https://golang.org)와 [Python](https://p
 
 ### 규약 기반의 코드
 
-코드는 규약에 따라서 작성됩니다. 자세한 정보는 [위키](wiki)를 살펴보세요.
+코드는 규약에 따라서 작성됩니다.
+자세한 정보는 [위키](https://github.com/imagvfx/site/wiki)를 살펴보세요.
 
 
 ### 사용자
